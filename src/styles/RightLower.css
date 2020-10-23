@@ -1,0 +1,17 @@
+.right__lower__text{
+    background-color: white;
+    width: 80%;
+    height: 80%;
+    border-style: none;
+    margin: 50px ;
+    height: 72vh;
+    box-shadow: 0 0 5px 5px lightgrey;
+    outline: none;
+    
+    overflow: hidden;
+}
+.right__lower{
+    background-color: white;
+    height: 76vh;
+ 
+}
